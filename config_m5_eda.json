@@ -1,0 +1,10 @@
+{
+    "columns": {
+        "location": "store_id",
+        "product": "item_id",
+        "date": "date",
+        "quantity": "ground_truth",
+        "axis_1": "cat_id",
+        "axis_2": "dept_id"
+    }
+}
