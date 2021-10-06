@@ -1,6 +1,6 @@
 [global]
-csv_sep = ";",
-date_format = "%Y-%m-%d",
+csv_sep = ";"
+date_format = "%Y-%m-%d"
 location_aggregation = "global_smoothed"
 
 [columns]
