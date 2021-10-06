@@ -1,0 +1,16 @@
+[global]
+csv_sep = ";",
+date_format = "%Y-%m-%d",
+location_aggregation = "global_smoothed"
+
+[columns]
+location_code = "store_id"
+product_code = "item_id"
+target_date = "date"
+ground_truth = "ground_truth"
+prediction = "yhat"
+prediction_bis = "yhat_second"
+min_prediction = "yhat_lower_adjusted"
+max_prediction = "yhat_upper_adjusted"
+axis_1 = "cat_id"
+axis_2 = "dept_id"
