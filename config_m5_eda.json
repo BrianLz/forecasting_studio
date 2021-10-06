@@ -1,4 +1,8 @@
 {
+    "global": {
+        "csv_sep": ";",
+        "date_format": "%Y-%m-%d"
+    }
     "columns": {
         "location": "store_id",
         "product": "item_id",
