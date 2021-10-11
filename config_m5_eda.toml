@@ -1,5 +1,5 @@
 [global]
-csv_sep = ";"
+csv_sep = ","
 date_format = "%Y-%m-%d"
 
 [columns]
