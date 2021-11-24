@@ -1,0 +1,9 @@
+location,product,event_type,start_date,end_date
+WI_1,FOODS_1_153,3for2 Operation,2013-08-05,2013-09-02
+WI_1,FOODS_1_153,3for2 Operation,2014-01-27,2014-02-17
+WI_1,FOODS_1_153,Direct Discount 20%,2013-07-08,2013-07-27
+WI_1,FOODS_1_153,Direct Discount 20%,2014-08-17,2014-04-06
+CA_3,FOODS_3_632,Direct Discount 20%,2015-09-28,2015-10-10
+CA_3,FOODS_3_632,Direct Discount 20%,2015-03-09,2015-03-20
+CA_3,FOODS_3_632,3for2 Operation,2015-02-16,2015-02-22
+CA_3,FOODS_3_632,3for2 Operation,2015-05-04,2015-05-11
